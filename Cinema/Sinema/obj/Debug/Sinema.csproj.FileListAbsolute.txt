@@ -1,0 +1,7 @@
+C:\Users\Code\source\repos\Sinema\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\Code\source\repos\Sinema\Sinema\bin\Debug\Sinema.exe
+C:\Users\Code\source\repos\Sinema\Sinema\bin\Debug\Sinema.pdb
+C:\Users\Code\source\repos\Sinema\Sinema\obj\Debug\Sinema.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Sinema\Sinema\obj\Debug\Sinema.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Sinema\Sinema\obj\Debug\Sinema.exe
+C:\Users\Code\source\repos\Sinema\Sinema\obj\Debug\Sinema.pdb
